@@ -1,7 +1,7 @@
 <script setup></script>
 
 <template>
-  <MainNav />
+  <main-nav />
 </template>
 
 <script>
